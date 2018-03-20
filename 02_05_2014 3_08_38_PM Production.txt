@@ -1,0 +1,47 @@
+=================
+Current menu: 
+-----------------
+Breakfast: 
+<empty>
+-----------------
+Lunch: 
+Borsch
+Fish Cutlet
+Buckwheat
+Pickle,
+Bread
+Ketchup
+Compote
+Milk
+Apple Juice
+-----------------
+Snack: 
+<empty>
+-----------------
+=================
+Estimated production data for 180 servings
+********************
+All values in G and ML, check package weight of individual item for number of packages
+--------------------
+NAME            UNIT DESCRIPTION                         SERVING SIZE    TOTAL WEIGHT    UNITS
+potatoes        approx. 500g per unit                    10.00          1800.00        3.60 
+chicken         approx. 1kg per unit                     12.00          2160.00        2.16 
+carrots         approx. 300 grams per unit               12.00          2160.00        7.20 
+onions          approx. 300 grams per unit               8.00           1440.00        4.80 
+tomatoes        approx 250g each                         13.00          2340.00        9.36 
+pinto beans     850g cans                                13.00          2340.00        2.75 
+cabbage         1kg cabbages                             11.00          1980.00        1.98 
+beets           approx. 500g per unit                    12.00          2160.00        4.32 
+fish            unknown                                  80.00          14400.00       14400.00
+eggs            dozen eggs, approx 57g per egg           2.00           360.00         0.53 
+onion           approx. 250 gram per unit                5.00           900.00         3.60 
+bread           approx. 1lb loaf (454g)                  2.00           360.00         0.79 
+buckwheat       700g bags                                80.00          14400.00       20.57
+pickle          approx. 4l bottle                        40.00          7200.00        1.80 
+bread           approx. 453g (1lb) per loaf              50.00          9000.00        19.87
+ketchup         1.25 kg bottle                           9.00           1620.00        1.30 
+currant         by weight                                10.00          1800.00        1800.00
+sugar           by weight                                1.00           180.00         180.00
+milk 2%         1 gallon containers                      75.00          13500.00       3.57 
+apple juice     1.9 Liter containers                     80.00          14400.00       7.58 
+********************

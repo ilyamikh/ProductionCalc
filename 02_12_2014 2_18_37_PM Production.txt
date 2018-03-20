@@ -1,0 +1,26 @@
+=================
+Current menu: 
+-----------------
+Breakfast: 
+<empty>
+-----------------
+Lunch: 
+<empty>
+-----------------
+Snack: 
+Canned Pineapples
+Crackers, one type
+Milk
+Apple Juice
+-----------------
+=================
+Estimated production data for 130 servings
+********************
+All values in G and ML, check package weight of individual item for number of packages
+--------------------
+NAME            UNIT DESCRIPTION                         SERVING SIZE    TOTAL WEIGHT    UNITS
+canned pineapples 3.3kg(6lb) cans                          135.00         17550.00       5.32 
+crackers, single type Savoritz original crackers, 428g box     50.00          6500.00        15.19
+milk 2%         1 gallon containers                      75.00          9750.00        2.58 
+apple juice     1.9 Liter containers                     80.00          10400.00       5.47 
+********************

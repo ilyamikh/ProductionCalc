@@ -1,0 +1,45 @@
+=================
+Current menu: 
+-----------------
+Breakfast: 
+<empty>
+-----------------
+Lunch: 
+Buckwheat Soup
+Chicken Nuggets
+Mashed Potatoes
+Vegetable Salad, Tomato Lettuce Cucumber Bell Pepper
+Bread
+Ketchup
+Milk
+Apple Juice
+-----------------
+Snack: 
+<empty>
+-----------------
+=================
+Estimated production data for 190 servings
+********************
+All values in G and ML, check package weight of individual item for number of packages
+--------------------
+NAME            UNIT DESCRIPTION                         SERVING SIZE    TOTAL WEIGHT    UNITS
+buckwheat       700g bags                                30.00          5700.00        8.14 
+peas            425g (15oz) can                          7.00           1330.00        3.13 
+potatoes        approx. 500g per unit                    8.00           1520.00        3.04 
+chicken         approx. 1kg per unit                     20.00          3800.00        3.80 
+onions          approx. 300 grams per unit               12.00          2280.00        7.60 
+carrots         approx. 300 grams per unit               12.00          2280.00        7.60 
+chicken nuggets 1.7kg bag                                72.00          13680.00       8.05 
+mashed potatoes Chef's Cupboard 369 gram box             15.00          2850.00        7.72 
+milk            gallon containers                        41.00          7790.00        2.06 
+butter          453.6 gram pack                          1.00           190.00         0.42 
+tomato          approx. 250 gram per unit                25.00          4750.00        19.00
+lettuce         510 gram bags                            25.00          4750.00        9.31 
+cucumber        approx. 250 gram per unit                25.00          4750.00        19.00
+bell pepper     approx. 250 gram per unit                15.00          2850.00        11.40
+oil/dressing    1.06L bottles                            0.15           28.50          0.03 
+bread           approx. 453g (1lb) per loaf              50.00          9500.00        20.97
+ketchup         1.25 kg bottle                           9.00           1710.00        1.37 
+milk 2%         1 gallon containers                      75.00          14250.00       3.76 
+apple juice     1.9 Liter containers                     80.00          15200.00       8.00 
+********************

@@ -1,0 +1,45 @@
+=================
+Current menu: 
+-----------------
+Breakfast: 
+<empty>
+-----------------
+Lunch: 
+Vermicelli Bullion
+Pilaf
+Cucumber Single
+Bread
+Ketchup
+Compote
+Milk
+Apple Juice
+-----------------
+Snack: 
+<empty>
+-----------------
+=================
+Estimated production data for 180 servings
+********************
+All values in G and ML, check package weight of individual item for number of packages
+--------------------
+NAME            UNIT DESCRIPTION                         SERVING SIZE    TOTAL WEIGHT    UNITS
+vermicelli      500g bags                                30.00          5400.00        10.80
+peas            425g (15oz) can                          7.00           1260.00        2.96 
+potatoes        approx. 500g per unit                    8.00           1440.00        2.88 
+chicken         approx. 1kg per unit                     20.00          3600.00        3.60 
+onions          approx. 300 grams per unit               12.00          2160.00        7.20 
+carrots         approx. 300 grams per unit               12.00          2160.00        7.20 
+white rice      800g bag                                 100.00         18000.00       22.50
+chicken         1/4 lb legs, 113g                        80.00          14400.00       127.43
+onions          approx. 250 per unit                     10.00          1800.00        7.20 
+carrots         approx. 250 per unit                     10.00          1800.00        7.20 
+garlic          apprix. 100 per unit                     0.25           45.00          0.45 
+peppers         approx. 250 per unit                     7.00           1260.00        5.04 
+cucumber        approx. 250 gram per unit                35.00          6300.00        25.20
+bread           approx. 453g (1lb) per loaf              50.00          9000.00        19.87
+ketchup         1.25 kg bottle                           9.00           1620.00        1.30 
+currant         by weight                                10.00          1800.00        1800.00
+sugar           by weight                                1.00           180.00         180.00
+milk 2%         1 gallon containers                      75.00          13500.00       3.57 
+apple juice     1.9 Liter containers                     80.00          14400.00       7.58 
+********************

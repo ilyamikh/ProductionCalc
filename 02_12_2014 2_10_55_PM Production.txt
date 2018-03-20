@@ -1,0 +1,24 @@
+=================
+Current menu: 
+-----------------
+Breakfast: 
+<empty>
+-----------------
+Lunch: 
+<empty>
+-----------------
+Snack: 
+Banana
+Milk
+Apple Juice
+-----------------
+=================
+Estimated production data for 150 servings
+********************
+All values in G and ML, check package weight of individual item for number of packages
+--------------------
+NAME            UNIT DESCRIPTION                         SERVING SIZE    TOTAL WEIGHT    UNITS
+banana half     approx. 2 servings per banana            50.00          7500.00        31.25
+milk 2%         1 gallon containers                      75.00          11250.00       2.97 
+apple juice     1.9 Liter containers                     80.00          12000.00       6.32 
+********************

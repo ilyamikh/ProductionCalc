@@ -1,0 +1,33 @@
+=================
+Current menu: 
+-----------------
+Breakfast: 
+Ham Sandwich
+Cheese Sandwich
+Cereal with Milk, single type
+Tea
+Apple Juice
+-----------------
+Lunch: 
+<empty>
+-----------------
+Snack: 
+<empty>
+-----------------
+=================
+Estimated production data for 120 servings
+********************
+All values in G and ML, check package weight of individual item for number of packages
+--------------------
+NAME            UNIT DESCRIPTION                         SERVING SIZE    TOTAL WEIGHT    UNITS
+turkey ham      567g packs                               40.00          4800.00        8.47 
+bread slice     454g loaf                                40.00          4800.00        10.57
+bread           approx. 453g (1lb) per loaf              50.00          6000.00        13.25
+american cheese, individual slice pack of 16, 340 gram                     21.25          2550.00        7.50 
+cereal, single type approx. 330g box                         40.00          4800.00        14.55
+milk, 2%        half-gallon containers (1892ml)          75.00          9000.00        4.76 
+tea             100 Teabags box, 226 grams               0.60           72.00          0.32 
+lemons          approx. 150g lemon                       3.00           360.00         2.40 
+sugar           by weight                                1.00           120.00         120.00
+apple juice     1.9 Liter containers                     80.00          9600.00        5.05 
+********************

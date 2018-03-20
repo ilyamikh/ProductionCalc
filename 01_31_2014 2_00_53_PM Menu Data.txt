@@ -1,0 +1,828 @@
+Data for 55 menu items.
+==========================
+
+=========================
+Apple Sauce
+Item Code: 1
+Ingredients:
+1. apple sauce
+Serving Size: 113.0
+Package Description: 113g packs
+Package Size: 113.0
+
+=========================
+Apple
+Item Code: 2
+Ingredients:
+1. apple slice
+Serving Size: 50.0
+Package Description: approx. 4 slices per apple
+Package Size: 200.0
+
+=========================
+Banana
+Item Code: 3
+Ingredients:
+1. banana half
+Serving Size: 50.0
+Package Description: approx. 2 servings per banana
+Package Size: 240.0
+
+=========================
+Kiwi
+Item Code: 4
+Ingredients:
+1. kiwi slice
+Serving Size: 40.0
+Package Description: approx. 150g per unit
+Package Size: 150.0
+
+=========================
+Crackers, one type
+Item Code: 5
+Ingredients:
+1. crackers, single type
+Serving Size: 50.0
+Package Description: Savoritz original crackers, 428g box
+Package Size: 428.0
+
+=========================
+Cereal with Milk, single type
+Item Code: 6
+Ingredients:
+1. cereal, single type
+Serving Size: 40.0
+Package Description: approx. 330g box
+Package Size: 330.0
+
+2. milk, 2%
+Serving Size: 75.0
+Package Description: half-gallon containers (1892ml)
+Package Size: 1892.0
+
+=========================
+Kefir
+Item Code: 7
+Ingredients:
+1. fruit kefir
+Serving Size: 70.0
+Package Description: 944ml bottle
+Package Size: 944.0
+
+=========================
+Cookies
+Item Code: 8
+Ingredients:
+1. vanilla wafers
+Serving Size: 45.0
+Package Description: 340 gram box
+Package Size: 340.0
+
+=========================
+Boiled Egg
+Item Code: 9
+Ingredients:
+1. half of egg
+Serving Size: 20.0
+Package Description: approx 40g eggs
+Package Size: 40.0
+
+=========================
+French Toast
+Item Code: 10
+Ingredients:
+1. french toast
+Serving Size: 100.0
+Package Description: 1.81 kg box
+Package Size: 1810.0
+
+2. syrup
+Serving Size: 20.0
+Package Description: 624g bottle
+Package Size: 624.0
+
+=========================
+Milk vermicelli
+Item Code: 11
+Ingredients:
+1. vermicelli
+Serving Size: 40.0
+Package Description: 500g bags
+Package Size: 500.0
+
+2. milk
+Serving Size: 40.0
+Package Description: 1 gallon
+Package Size: 3780.0
+
+=========================
+Canned Peaches
+Item Code: 12
+Ingredients:
+1. canned peaches
+Serving Size: 135.0
+Package Description: 2.72kg(6lb) cans
+Package Size: 2721.55
+
+=========================
+Canned Pineapples
+Item Code: 13
+Ingredients:
+1. canned pineapples
+Serving Size: 135.0
+Package Description: 3.3kg(6lb) cans
+Package Size: 3300.0
+
+=========================
+Vegetable Salad, Tomato Lettuce Cucumber Bell Pepper
+Item Code: 14
+Ingredients:
+1. tomato
+Serving Size: 25.0
+Package Description: approx. 250 gram per unit
+Package Size: 250.0
+
+2. lettuce
+Serving Size: 25.0
+Package Description: 510 gram bags
+Package Size: 510.0
+
+3. cucumber
+Serving Size: 25.0
+Package Description: approx. 250 gram per unit
+Package Size: 250.0
+
+4. bell pepper
+Serving Size: 15.0
+Package Description: approx. 250 gram per unit
+Package Size: 250.0
+
+5. oil/dressing
+Serving Size: 0.15
+Package Description: 1.06L bottles
+Package Size: 1060.0
+
+=========================
+Lettuce
+Item Code: 15
+Ingredients:
+1. lettuce
+Serving Size: 40.0
+Package Description: 510 gram bag
+Package Size: 510.0
+
+=========================
+Pickle,
+Item Code: 16
+Ingredients:
+1. pickle
+Serving Size: 40.0
+Package Description: approx. 4l bottle
+Package Size: 4000.0
+
+=========================
+Cucumber Single
+Item Code: 17
+Ingredients:
+1. cucumber
+Serving Size: 35.0
+Package Description: approx. 250 gram per unit
+Package Size: 250.0
+
+=========================
+Tomato single
+Item Code: 18
+Ingredients:
+1. tomato
+Serving Size: 35.0
+Package Description: approx. 250 gram per unit
+Package Size: 250.0
+
+=========================
+Baby Corn, single
+Item Code: 19
+Ingredients:
+1. baby corn
+Serving Size: 35.0
+Package Description: 1.5 kg can dry weight
+Package Size: 1500.0
+
+=========================
+Pepper, Single
+Item Code: 20
+Ingredients:
+1. bell pepper
+Serving Size: 20.0
+Package Description: approx. 250 gram per unit
+Package Size: 250.0
+
+=========================
+Cabbage single
+Item Code: 21
+Ingredients:
+1. cabbage
+Serving Size: 35.0
+Package Description: approx 1kg unit
+Package Size: 1000.0
+
+=========================
+Hot Dog, no bun
+Item Code: 22
+Ingredients:
+1. hot dog
+Serving Size: 56.7
+Package Description: pack of 8, 434g (1lb)
+Package Size: 434.0
+
+=========================
+Hot Dog with Bun
+Item Code: 23
+Ingredients:
+1. hot dog
+Serving Size: 56.7
+Package Description: pack of 8, 434g (1lb)
+Package Size: 434.0
+
+2. hot dog bun
+Serving Size: 39.0
+Package Description: pack of 16, 624g(1lb 6oz)
+Package Size: 624.0
+
+=========================
+Pelmeni
+Item Code: 24
+Ingredients:
+1. pelmeni
+Serving Size: 80.0
+Package Description: 1lb bag, 454g
+Package Size: 454.0
+
+=========================
+Buckwheat
+Item Code: 25
+Ingredients:
+1. buckwheat
+Serving Size: 80.0
+Package Description: 700g bags
+Package Size: 700.0
+
+=========================
+Chicken Meatballs
+Item Code: 26
+Ingredients:
+1. meatball
+Serving Size: 75.0
+Package Description: 4lb bag, 1.8kg
+Package Size: 1814.0
+
+2. crumbs
+Serving Size: 5.0
+Package Description: unknown
+Package Size: 1.0
+
+=========================
+Ketchup
+Item Code: 27
+Ingredients:
+1. ketchup
+Serving Size: 9.0
+Package Description: 1.25 kg bottle
+Package Size: 1250.0
+
+=========================
+Sour Cream
+Item Code: 28
+Ingredients:
+1. sour cream
+Serving Size: 9.0
+Package Description: 454 gram can
+Package Size: 454.0
+
+=========================
+Buckwheat Soup
+Item Code: 29
+Ingredients:
+1. buckwheat
+Serving Size: 30.0
+Package Description: 700g bags
+Package Size: 700.0
+
+2. peas
+Serving Size: 7.0
+Package Description: 425g (15oz) can
+Package Size: 425.0
+
+3. potatoes
+Serving Size: 8.0
+Package Description: approx. 500g per unit
+Package Size: 500.0
+
+4. chicken
+Serving Size: 20.0
+Package Description: approx. 1kg per unit
+Package Size: 1000.0
+
+5. onions
+Serving Size: 12.0
+Package Description: approx. 300 grams per unit
+Package Size: 300.0
+
+6. carrots
+Serving Size: 12.0
+Package Description: approx. 300 grams per unit
+Package Size: 300.0
+
+=========================
+Potato and Cauliflower Soup
+Item Code: 30
+Ingredients:
+1. potato
+Serving Size: 15.0
+Package Description: 1 pound units
+Package Size: 454.0
+
+2. cauliflower
+Serving Size: 25.0
+Package Description: 1 pound units
+Package Size: 454.0
+
+3. chicken
+Serving Size: 5.0
+Package Description: 1 pound units
+Package Size: 454.0
+
+4. cabbage
+Serving Size: 25.0
+Package Description: 1 pound units
+Package Size: 454.0
+
+=========================
+Vermicelli Bullion
+Item Code: 31
+Ingredients:
+1. vermicelli
+Serving Size: 30.0
+Package Description: 500g bags
+Package Size: 500.0
+
+2. peas
+Serving Size: 7.0
+Package Description: 425g (15oz) can
+Package Size: 425.0
+
+3. potatoes
+Serving Size: 8.0
+Package Description: approx. 500g per unit
+Package Size: 500.0
+
+4. chicken
+Serving Size: 20.0
+Package Description: approx. 1kg per unit
+Package Size: 1000.0
+
+5. onions
+Serving Size: 12.0
+Package Description: approx. 300 grams per unit
+Package Size: 300.0
+
+6. carrots
+Serving Size: 12.0
+Package Description: approx. 300 grams per unit
+Package Size: 300.0
+
+=========================
+Croutons
+Item Code: 32
+Ingredients:
+1. croutons
+Serving Size: 30.0
+Package Description: 453g (1lb) bags
+Package Size: 453.0
+
+=========================
+Bread
+Item Code: 33
+Ingredients:
+1. bread
+Serving Size: 50.0
+Package Description: approx. 453g (1lb) per loaf
+Package Size: 453.0
+
+=========================
+Chicken Nuggets
+Item Code: 34
+Ingredients:
+1. chicken nuggets
+Serving Size: 72.0
+Package Description: 1.7kg bag
+Package Size: 1700.0
+
+=========================
+Mashed Potatoes
+Item Code: 35
+Ingredients:
+1. mashed potatoes
+Serving Size: 15.0
+Package Description: Chef's Cupboard 369 gram box
+Package Size: 369.0
+
+2. milk
+Serving Size: 41.0
+Package Description: gallon containers
+Package Size: 3785.0
+
+3. butter
+Serving Size: 1.0
+Package Description: 453.6 gram pack
+Package Size: 453.6
+
+=========================
+French Fries
+Item Code: 36
+Ingredients:
+1. french fries
+Serving Size: 80.0
+Package Description: 3.62 kg bag
+Package Size: 3620.0
+
+=========================
+Baby Carrots
+Item Code: 37
+Ingredients:
+1. baby carrot
+Serving Size: 20.0
+Package Description: 1lb packs, 454gram
+Package Size: 454.0
+
+=========================
+Vegetable Soup
+Item Code: 38
+Ingredients:
+1. chicken
+Serving Size: 3.5
+Package Description: 1/4 pound legs
+Package Size: 116.0
+
+2. cabbage
+Serving Size: 11.0
+Package Description: cabbages, 1kg
+Package Size: 1000.0
+
+3. corn
+Serving Size: 16.1
+Package Description: large can of 6lb(3.01kg)
+Package Size: 3010.0
+
+4. peas
+Serving Size: 16.1
+Package Description: large can of 6lb(3.01kg)
+Package Size: 3010.0
+
+5. tomato
+Serving Size: 13.0
+Package Description: approx. 250 gram each
+Package Size: 250.0
+
+6. onion
+Serving Size: 3.0
+Package Description: approx. 250 gram each
+Package Size: 250.0
+
+7. cauliflower
+Serving Size: 5.5
+Package Description: cauliflower
+Package Size: 1.0
+
+=========================
+Split Pea Soup
+Item Code: 39
+Ingredients:
+1. peas
+Serving Size: 16.0
+Package Description: 15oz can, 425 gram
+Package Size: 425.0
+
+2. carrots
+Serving Size: 16.0
+Package Description: approx. 300 grams per unit
+Package Size: 300.0
+
+3. onions
+Serving Size: 8.0
+Package Description: approx. 300g per unit
+Package Size: 300.0
+
+4. potatos
+Serving Size: 16.0
+Package Description: approx. 500g per unit
+Package Size: 500.0
+
+5. chicken
+Serving Size: 12.0
+Package Description: approx. 1kg per unit
+Package Size: 1000.0
+
+=========================
+Borsch
+Item Code: 40
+Ingredients:
+1. potatoes
+Serving Size: 10.0
+Package Description: approx. 500g per unit
+Package Size: 500.0
+
+2. chicken
+Serving Size: 12.0
+Package Description: approx. 1kg per unit
+Package Size: 1000.0
+
+3. carrots
+Serving Size: 12.0
+Package Description: approx. 300 grams per unit
+Package Size: 300.0
+
+4. onions
+Serving Size: 8.0
+Package Description: approx. 300 grams per unit
+Package Size: 300.0
+
+5. tomatoes
+Serving Size: 13.0
+Package Description: approx 250g each
+Package Size: 250.0
+
+6. pinto beans
+Serving Size: 13.0
+Package Description: 850g cans
+Package Size: 850.0
+
+7. cabbage
+Serving Size: 11.0
+Package Description: 1kg cabbages
+Package Size: 1000.0
+
+8. beets
+Serving Size: 12.0
+Package Description: approx. 500g per unit
+Package Size: 500.0
+
+=========================
+Apple Juice
+Item Code: 41
+Ingredients:
+1. apple juice
+Serving Size: 80.0
+Package Description: 1.9 Liter containers
+Package Size: 1900.0
+
+=========================
+Pilaf
+Item Code: 42
+Ingredients:
+1. white rice
+Serving Size: 100.0
+Package Description: 800g bag
+Package Size: 800.0
+
+2. chicken
+Serving Size: 80.0
+Package Description: 1/4 lb legs, 113g
+Package Size: 113.0
+
+3. onions
+Serving Size: 10.0
+Package Description: approx. 250 per unit
+Package Size: 250.0
+
+4. carrots
+Serving Size: 10.0
+Package Description: approx. 250 per unit
+Package Size: 250.0
+
+5. garlic
+Serving Size: 0.25
+Package Description: apprix. 100 per unit
+Package Size: 100.0
+
+6. peppers
+Serving Size: 7.0
+Package Description: approx. 250 per unit
+Package Size: 250.0
+
+=========================
+Macaroni and Chicken
+Item Code: 43
+Ingredients:
+1. elbow macaroni
+Serving Size: 100.0
+Package Description: Barilla Elbows, 454g(1lb) box
+Package Size: 454.0
+
+2. chicken
+Serving Size: 80.0
+Package Description: 1/4 lb legs, 113g
+Package Size: 113.0
+
+3. onions
+Serving Size: 10.0
+Package Description: approx. 250 per unit
+Package Size: 250.0
+
+4. carrots
+Serving Size: 10.0
+Package Description: approx. 250 per unit
+Package Size: 250.0
+
+5. garlic
+Serving Size: 0.25
+Package Description: apprix. 100 per unit
+Package Size: 100.0
+
+6. peppers
+Serving Size: 7.0
+Package Description: approx. 250 per unit
+Package Size: 250.0
+
+=========================
+Macaroni
+Item Code: 44
+Ingredients:
+1. elbow macaroni
+Serving Size: 100.0
+Package Description: Barilla Elbows, 454g(1lb) box
+Package Size: 454.0
+
+=========================
+Fish Cutlet
+Item Code: 45
+Ingredients:
+1. fish
+Serving Size: 80.0
+Package Description: unknown
+Package Size: 1.0
+
+2. eggs
+Serving Size: 2.0
+Package Description: dozen eggs, approx 57g per egg
+Package Size: 684.0
+
+3. onion
+Serving Size: 5.0
+Package Description: approx. 250 gram per unit
+Package Size: 250.0
+
+4. bread
+Serving Size: 2.0
+Package Description: approx. 1lb loaf (454g)
+Package Size: 454.0
+
+=========================
+Chicken Cutlet
+Item Code: 46
+Ingredients:
+1. chicken
+Serving Size: 80.0
+Package Description: 1/4lb legs, 113g
+Package Size: 113.0
+
+2. eggs
+Serving Size: 2.0
+Package Description: dozen eggs, approx 57g per egg
+Package Size: 684.0
+
+3. onion
+Serving Size: 5.0
+Package Description: approx. 250 gram per unit
+Package Size: 250.0
+
+4. bread
+Serving Size: 2.0
+Package Description: approx. 1lb loaf (454g)
+Package Size: 454.0
+
+=========================
+Bagel with Cream Cheese
+Item Code: 47
+Ingredients:
+1. bagel, half
+Serving Size: 47.25
+Package Description: bags of 6, 567 gram
+Package Size: 567.0
+
+2. cream cheese
+Serving Size: 15.0
+Package Description: 227 gram pack
+Package Size: 227.0
+
+=========================
+Bagel with Chocolate
+Item Code: 48
+Ingredients:
+1. bagel, half
+Serving Size: 47.25
+Package Description: bags of 6, 567 gram
+Package Size: 567.0
+
+2. chocolate
+Serving Size: 15.0
+Package Description: 368 gram bottle
+Package Size: 368.0
+
+=========================
+Cheese Sandwich
+Item Code: 49
+Ingredients:
+1. bread
+Serving Size: 50.0
+Package Description: approx. 453g (1lb) per loaf
+Package Size: 453.0
+
+2. american cheese, individual slice
+Serving Size: 21.25
+Package Description: pack of 16, 340 gram
+Package Size: 340.0
+
+=========================
+Oatmeal Porridge
+Item Code: 50
+Ingredients:
+1. oats
+Serving Size: 45.0
+Package Description: Oats, 2lb 10oz container (1.19kg)
+Package Size: 1190.0
+
+2. milk
+Serving Size: 45.0
+Package Description: Milk, 1 gallon container (3.78L)
+Package Size: 3780.0
+
+=========================
+Tea
+Item Code: 51
+Ingredients:
+1. tea
+Serving Size: 0.6
+Package Description: 100 Teabags box, 226 grams
+Package Size: 226.0
+
+2. lemons
+Serving Size: 3.0
+Package Description: approx. 150g lemon
+Package Size: 150.0
+
+3. sugar
+Serving Size: 1.0
+Package Description: by weight
+Package Size: 1.0
+
+=========================
+Milk
+Item Code: 52
+Ingredients:
+1. milk 2%
+Serving Size: 75.0
+Package Description: 1 gallon containers
+Package Size: 3785.0
+
+=========================
+Compote
+Item Code: 53
+Ingredients:
+1. currant
+Serving Size: 10.0
+Package Description: by weight
+Package Size: 1.0
+
+2. sugar
+Serving Size: 1.0
+Package Description: by weight
+Package Size: 1.0
+
+=========================
+Barley
+Item Code: 54
+Ingredients:
+1. pearled barley
+Serving Size: 33.0
+Package Description: 1lb bag
+Package Size: 454.0
+
+2. milk
+Serving Size: 30.0
+Package Description: 1 gallon
+Package Size: 3780.0
+
+=========================
+Ham Sandwich
+Item Code: 55
+Ingredients:
+1. turkey ham
+Serving Size: 40.0
+Package Description: 567g packs
+Package Size: 567.0
+
+2. bread slice
+Serving Size: 40.0
+Package Description: 454g loaf
+Package Size: 454.0
+

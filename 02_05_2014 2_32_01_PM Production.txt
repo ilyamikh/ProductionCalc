@@ -1,0 +1,39 @@
+=================
+Current menu: 
+-----------------
+Breakfast: 
+<empty>
+-----------------
+Lunch: 
+Borsch
+Pelmeni
+Sour Cream
+Ketchup
+Bread
+Milk
+Apple Juice
+-----------------
+Snack: 
+<empty>
+-----------------
+=================
+Estimated production data for 180 servings
+********************
+All values in G and ML, check package weight of individual item for number of packages
+--------------------
+NAME            UNIT DESCRIPTION                         SERVING SIZE    TOTAL WEIGHT    UNITS
+potatoes        approx. 500g per unit                    10.00          1800.00        3.60 
+chicken         approx. 1kg per unit                     12.00          2160.00        2.16 
+carrots         approx. 300 grams per unit               12.00          2160.00        7.20 
+onions          approx. 300 grams per unit               8.00           1440.00        4.80 
+tomatoes        approx 250g each                         13.00          2340.00        9.36 
+pinto beans     850g cans                                13.00          2340.00        2.75 
+cabbage         1kg cabbages                             11.00          1980.00        1.98 
+beets           approx. 500g per unit                    12.00          2160.00        4.32 
+pelmeni         1lb bag, 454g                            80.00          14400.00       31.72
+sour cream      454 gram can                             9.00           1620.00        3.57 
+ketchup         1.25 kg bottle                           9.00           1620.00        1.30 
+bread           approx. 453g (1lb) per loaf              50.00          9000.00        19.87
+milk 2%         1 gallon containers                      75.00          13500.00       3.57 
+apple juice     1.9 Liter containers                     80.00          14400.00       7.58 
+********************
